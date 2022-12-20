@@ -1,0 +1,2 @@
+model_checkpoint_path: "TicTacToe_Engine_ac"
+all_model_checkpoint_paths: "TicTacToe_Engine_ac"
